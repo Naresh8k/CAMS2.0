@@ -1,0 +1,47 @@
+{
+  "name": "cams",
+  "version": "1.0.0",
+  "expo": {
+    "name": "cams",
+    "slug": "cams",
+    "version": "1.0.0",
+    "type": "module",
+    "orientation": "portrait",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-firebase/app": "^19.3.0",
+    "@react-native-firebase/auth": "^19.3.0",
+    "@react-native-firebase/database": "^19.3.0",
+    "@react-navigation/native": "^ 6.1.17",
+    "@react-navigation/stack": "^6.3.29",
+    "babel-preset-expo": "^10.0.0",
+    "expo": "~50.0.14",
+    "expo-firebase-core": "^6.0.0",
+    "expo-image-picker": "^14.0.0",
+    "expo-location": "~16.5.5",
+    "expo-status-bar": "~1.11.1",
+    "firebase": "^10.12.2",
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-gesture-handler": "~2.14.0",
+    "react-native-reanimated": "~3.6.2",
+    "uuid": "^9.0.1",
+    "@react-native-async-storage/async-storage": "1.21.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7"
+  },
+  "private": true
+}

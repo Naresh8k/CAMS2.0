@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "539147952635",
+    "firebase_url": "https://cams-c26da-default-rtdb.firebaseio.com",
+    "project_id": "cams-c26da",
+    "storage_bucket": "cams-c26da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539147952635:android:3024338e3e2c080c41eb5e",
+        "android_client_info": {
+          "package_name": "com.naresh.cams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtK4zLTxRrJpZUzLzFO3EBE0cF1TFo__E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
